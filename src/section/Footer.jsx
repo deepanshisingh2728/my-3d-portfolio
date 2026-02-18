@@ -1,4 +1,4 @@
-import { mySocials } from "../constants";
+import { mySocials } from "../constants/index.jsx";
 
 const Footer = () => {
   return (
@@ -49,3 +49,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
