@@ -21,12 +21,12 @@ import vscodeLogo from "../assets/logos/visualstudiocode.svg";
 
 export const mySocials = [
   {
-    name: "Linkedin",
+    name: "linkedin",
     href: "http://linkedin.com/in/deepanshi-singh-81376738a",
     icon: linkedinLogo,
   },
   {
-    name: "GitHub",
+    name: "gitHub",
     href: "https://github.com/deepanshisingh2728",
     icon: githubLogo,
   },
@@ -271,4 +271,5 @@ export const experiences = [
   ),
 },
 ]
+
 
