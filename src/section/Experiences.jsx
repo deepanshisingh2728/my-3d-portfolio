@@ -1,5 +1,6 @@
 import { Timeline } from "../components/Timeline";
 import { experiences } from "../constants/index.jsx";
+import { mySocials } from "../constants";
 
 const Experiences = () => {
   return (
@@ -10,4 +11,5 @@ const Experiences = () => {
 };
 
 export default Experiences;
+
 
