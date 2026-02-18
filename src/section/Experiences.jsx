@@ -1,5 +1,5 @@
 import { Timeline } from "../components/Timeline";
-import { experiences } from "../constants";
+import { experiences } from "../constants/index.jsx";
 
 const Experiences = () => {
   return (
@@ -10,3 +10,4 @@ const Experiences = () => {
 };
 
 export default Experiences;
+
